@@ -1,0 +1,3 @@
+npx shadcn@latest add button
+npx shadcn@latest add card input separator
+npm i react-icons
